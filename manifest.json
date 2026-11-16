@@ -1,0 +1,17 @@
+
+{
+  "name": "SoldierAssist 7.0",
+  "short_name": "SoldierAssist",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101a13",
+  "theme_color": "#15221a",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
